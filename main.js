@@ -1,0 +1,16 @@
+import {daraja} from "./methods.js";
+console.log(daraja);
+import { sumpositive } from   "./methods.js";
+console.log(sumpositive);
+import { string } from   "./methods.js";
+console.log(string);
+import { number } from   "./methods.js";
+console.log(number);
+import { slice } from   "./methods.js";
+console.log(slice);
+import { trim } from   "./methods.js";
+console.log(trim);
+import { fullName } from   "./methods.js";
+console.log(fullName);
+import { replace } from   "./methods.js";
+console.log(replace);
